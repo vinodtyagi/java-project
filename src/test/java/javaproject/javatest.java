@@ -2,10 +2,10 @@ package javaproject;
 
 import org.junit.Test;
 
-   public class myapptest {
+public class javatest {
 
 	@Test
-	 public void test() {
+	public void test() {
 		
 	}
 
